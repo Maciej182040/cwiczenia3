@@ -1,1 +1,2 @@
-# cwiczenia3
+# wersja aaa pierwszego zdania
+
