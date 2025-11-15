@@ -1,1 +1,2 @@
-# cwiczenia3
+# oto wersja bbb zdania pierwszego
+
